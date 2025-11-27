@@ -47,7 +47,7 @@ L’objectif est de construire une chaîne complète :
   - registres de configuration,
   - logique de multiplexage des données UART.
 
-Les fichiers associés sont dans le dossier `rtl/`.
+Les fichiers associés sont dans le dossier `src/`.
 
 ---
 
